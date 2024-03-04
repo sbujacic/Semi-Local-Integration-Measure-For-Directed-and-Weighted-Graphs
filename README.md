@@ -120,5 +120,5 @@ Node 732 importance score: 0.06642407178266628 %
 Node 731 importance score: 0.06642407178266628 %
 Node 733 importance score: 0.06642407178266628 %
 ```
-## Graph G
+## Directed and weighted graph G
 ![graphSLI](DSLI_new.png)
